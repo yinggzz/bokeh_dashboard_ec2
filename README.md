@@ -28,5 +28,5 @@ The bokeh dashboard authenticates any user who logs in with URL params username 
 Open the following web address in a browser: 
 
 ```
-http://35.182.63.198:8080/nyc_dash/?username=nyc&password=iheartnyc
+http://3.96.51.89:8080/nyc_dash/?username=nyc&password=iheartnyc
 ```
